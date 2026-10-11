@@ -13,10 +13,10 @@ Currently seeking a Data Analytics or Data Science
 internship from March to September 2027.
 
 ## Technical Skills
-- Programming: R
+- Programming: R, Python, MySQL
 - Data Visualization: Power BI, Excel
 - Data Analysis: Statistical Analysis
-- Machine Learning: XGBoost, Classification
+- Machine Learning: XGBoost
 - Model Interpretation: SHAP
 
 ## Featured Projects
@@ -25,6 +25,6 @@ internship from March to September 2027.
 - Loan Risk Analysis
 
 ## Connect With Me
-- LinkedIn: Add your LinkedIn URL here
-- Email: Add your professional email here
+- LinkedIn: www.linkedin.com/in/giridarkhanna
+- Email: giridarkhanna@gmail.com
 
