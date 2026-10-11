@@ -15,9 +15,8 @@ internship from March to September 2027.
 ## Technical Skills
 - Programming: R, Python, MySQL
 - Data Visualization: Power BI, Excel
-- Data Analysis: Statistical Analysis
-- Machine Learning: XGBoost
-- Model Interpretation: SHAP
+- Data Analysis: Statistical Analysis, EDA, Time-Series Forecasting
+- Machine Learning: XGBoost, Classification Models, SHAP
 
 ## Featured Projects
 - Tourism Analytics and Forecasting
