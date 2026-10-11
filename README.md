@@ -1,5 +1,11 @@
-# Github-username
+# Hi, I'm Giri 👋
 
+🎓 Bachelor of Science in Statistics with Honours  
+🏫 Universiti Putra Malaysia (UPM)  
+📊 Aspiring Data Analyst / Data Scientist
+
+## About Me
+I'm a Statistics undergraduate passionate about
 data analysis, statistical modelling, and
 transforming data into meaningful insights.
 
