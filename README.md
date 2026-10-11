@@ -21,8 +21,9 @@ internship from March to September 2027.
 
 ## Featured Projects
 - Tourism Analytics and Forecasting
-- Brugada Syndrome Classification
-- Loan Risk Analysis
+- AstraZeneca Cash Flow Insights & Forecasting
+- The Economic Ripple Effect of Food Waste
+- COVID-19 & Hospital Capacity Analytics
 
 ## Connect With Me
 - LinkedIn: www.linkedin.com/in/giridarkhanna
