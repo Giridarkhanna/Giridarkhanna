@@ -1,6 +1,6 @@
 # Hi, I'm Giri 👋
 
-🎓 Bachelor of Science in Statistics with Honours  
+🎓 Bachelor of Science in Statistics (Data Science) with Honours  
 🏫 Universiti Putra Malaysia (UPM)  
 📊 Aspiring Data Analyst / Data Scientist
 
