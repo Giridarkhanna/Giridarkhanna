@@ -24,6 +24,7 @@ internship from March to September 2027.
 - AstraZeneca Cash Flow Insights & Forecasting
 - The Economic Ripple Effect of Food Waste
 - COVID-19 & Hospital Capacity Analytics
+-  Brugada Syndrome Detection using Machine Learning
 
 ## Connect With Me
 - LinkedIn: www.linkedin.com/in/giridarkhanna
